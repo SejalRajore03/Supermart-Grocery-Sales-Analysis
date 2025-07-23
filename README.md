@@ -63,3 +63,14 @@ Sales/Profit by Customer Segment like Corporate, Home Office, Consumer.
 Insight:
 
 Corporate customers may bring in larger sales but have lower margins, whereas consumers generate steady profits.
+
+## ✅ Final Insights & Recommendations
+
+Reduce excessive discounts to improve profit margins.
+
+Focus marketing on top-performing regions and customer segments.
+
+Push high-margin products with targeted promotions.
+
+Monitor underperforming sub-categories for potential phase-out or pricing adjustments.
+
